@@ -7,12 +7,6 @@ Decryption: Decrypt Vigenère Ciphered messages back to their original form.
 Key Management: The tool supports customizable keys for enhanced security.
 User-Friendly Interface: Simple and intuitive command-line or GUI interface for seamless interaction.
 
-Usage:
-Clone the repository: git clone https://github.com/your-username/python-project.git
-Navigate to the project directory: cd python-project
-Run the tool: python vigenere_cipher_tool.py
-Follow the on-screen instructions to encrypt or decrypt messages.
-
 Dependencies:
 Python 3.x
 
